@@ -1,6 +1,6 @@
 - 👋 - Hi, I’m @Morphe3us
 - 👀 - I’m interested in web3.
-- 🌱 - I’m currently learning solidity.
+- 🌱 - I’m currently dev on solidity.
 - 💞️ - I’m looking to collaborate in interesting projects in web3.
 - 📫 - How to reach me in the space.
 
